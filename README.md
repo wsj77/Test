@@ -31,6 +31,6 @@ Format: ![이미지 alt명](url 링크)
 Format: img 태그사용 - 이미지경로는 상대경로 혹은 절대경로(대체로 상대경로)  
 
 ##하이퍼링크(Links)  
-[GitHub](http://wsjeong.site "WoonSeong Jeong's site"  
+[GitHub](http://wsjeong.site "WoonSeong Jeong's site")  
 
 ## 코드블록(Code Block)  
