@@ -33,4 +33,5 @@ Format: img 태그사용 - 이미지경로는 상대경로 혹은 절대경로(�
 ## 하이퍼링크(Links)  
 [WoonSeong Jeong](http://wsjeong.site "WoonSeong Jeong's site")
 
-## 코드블록(Code Block)  
+## Markdown 참고 블러그  
+[마크다운 가이드, 문법정리 및 작성규칙](https://post.naver.com/viewer/postView.nhn?volumeNo=24627214&memberNo=42458017 "마크다운 규칙") 
