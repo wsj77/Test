@@ -1,4 +1,11 @@
 # Test
 GitHub desktop test repository입니다. 테스트를 위해서 작성된 repository입니다.  
-Notepad++를 사용해 작성된 문서이며 스페이바를 두번 누르지 않아도 줄바꿈을 하면 다음 줄로 넘어가게 됩니다.
+Notepad++를 사용해 작성된 문서이며 윗줄의 맨 마지막줄에 스페이바를 두번 눌러 띄어쓰기를 하여야 이렇게 다음줄로 넘어오게 됩니다.  
+# Header 1 (h1)
+## Header 2 (h2)
+### Header 3 (h3)
+#### Header 4 (h4)
+##### Header 5 (h5)
+###### Header 6 (h6)
+
 
