@@ -22,3 +22,5 @@ Ordered
 	1. Item 3b
 
 ## 이미지(Images)
+![TestImage](GitMessageFormat.jpg)
+Format: ![이미지 alt명](url 링크)
