@@ -23,11 +23,11 @@ Ordered
 
 ## 이미지(Images)
 ### 첫번째 방법  
-![TestImage](images/GitMessageFormat.jpg)
+![TestImage](/images/GitMessageFormat.jpg)
 Format: ![이미지 alt명](url 링크)
 
 ### 두번째 방법  
-<a href="#"><img src="GitMessageFormat.jpg" width="700" alt="Test Image"></a>  
+<a href="#"><img src="GitMessageFormat.jpg" width="600" alt="Test Image"></a>  
 Format: img 태그사용 - 이미지경로는 상대경로 혹은 절대경로(대체로 상대경로)  
 
 ## 하이퍼링크(Links)  
