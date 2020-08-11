@@ -23,7 +23,7 @@ Ordered
 
 ## 이미지(Images)
 ### 첫번째 방법  
-![TestImage](GitMessageFormat.jpg)
+![TestImage](images/GitMessageFormat.jpg)
 Format: ![이미지 alt명](url 링크)
 
 ### 두번째 방법  
